@@ -108,6 +108,20 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "koala",
+      "species": "mouse",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "11"
+    },
+    {
+      "name": "koala",
+      "species": "mouse",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
